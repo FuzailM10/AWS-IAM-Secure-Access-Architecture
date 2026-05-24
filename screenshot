@@ -1,1 +1,0 @@
-This folder contains screenshots demonstrating the implementation of a secure AWS IAM architecture, including secure S3 bucket configuration, confidential data protection, least-privilege enforcement, AssumeRole-based temporary access, restricted user actions, role switching, and CloudTrail audit events.
